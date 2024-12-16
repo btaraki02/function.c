@@ -5,6 +5,7 @@
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=35&center=true&vCenter=true&width=1000&lines=just+fonction+ツ)
+
 <div align="left">
-  <img height="158" src="https://4kwallpapers.com/images/walls/thumbs_3t/5900.jpg"/>
+  <img style="width:600px; height:400px;" src="https://4kwallpapers.com/images/walls/thumbs_3t/5900.jpg"/>
 </div>
