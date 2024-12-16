@@ -1,0 +1,2 @@
+# function.c
+just fonction
